@@ -1,7 +1,7 @@
 # WUD-Key-Checker
 The WUD-Key-Checker is a Batch script that uses a title key database to find the correct title key for Nintendo Wii U backups in the WUD format.
 
-![GitHub Release](https://img.shields.io/github/v/release/xxmichibxx/WUD-Key-Checker) ![Issues](https://img.shields.io/github/issues/xxmichibxx/WUD-Key-Checker) ![GitHub Repo stars](https://img.shields.io/github/stars/xxmichibxx/WUD-Key-Checker) 
+![GitHub Release](https://img.shields.io/github/v/release/xxmichibxx/WUD-Key-Checker) ![Issues](https://img.shields.io/github/issues/xxmichibxx/WUD-Key-Checker) ![GitHub Repo stars](https://img.shields.io/github/stars/xxmichibxx/WUD-Key-Checker)
 
 ## Screenshot
 <p align="left"><a href="https://github.com/xxmichibxx/WUD-Key-Checker"><img src="https://i.imgur.com/DmZ6Wew.png" alt="Logo"></a></p>
